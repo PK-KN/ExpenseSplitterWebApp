@@ -1,12 +1,17 @@
-- **Project Title:** Expense Splitter for Roommates
-  
-- **Description:** A web app to track and split shared expenses among roommates with real-time balance updates.
-  
-- **Features:** Auth, group creation, expense logging, split logic, settlements.
-  
-- **Tech Stack:** React, Express, MongoDB, JWT.
-  
-- **Setup Instructions:** Clone, install dependencies, set up .env, run client and server.
+***Expense Splitter for Roommates***
+A web application designed to help roommates track and split shared expenses with real-time balance updates.
+**🚀 Features**
+- *Authentication* – Secure login and signup with JWT
+- *Group Creation* – Create and manage roommate groups
+- *Expense Logging* – Add and categorize shared expenses
+- *Split Logic* – Automatically calculate each roommate’s share
+- *Settlements* – Track payments and settle balances easily
+
+**🛠 Tech Stack**
+- *Frontend:* React
+- *Backend:* Express.js
+- *Database:* MongoDB
+- *Authentication:* JWT
 
   ________________________________________
 
